@@ -21,7 +21,7 @@
   I'm always open to collaborating on interesting projects and discussing new ideas. Feel free to reach out to me through LinkedIn. I'm excited to connect with fellow developers and learn from each other!
 </p>
 <p align="left">
-  <a href="https://linkedin.com/in/simeon ilić" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simeon ilić" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/simeon-ili%C4%87-1369341b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simeon ilić" height="30" width="40" />
   </a>
 </p>
 

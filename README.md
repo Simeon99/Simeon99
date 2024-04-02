@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Yoka web app**
 
-- 👨‍💻 Most of my projects are available at [https://github.com/Simeon99](https://github.com/Simeon99)
+- 👨‍💻 Some of my projects are available at [https://github.com/Simeon99](https://github.com/Simeon99)
 
 - 📫 How to reach me **simeonilic9@gmail.com**
 

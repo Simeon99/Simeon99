@@ -13,7 +13,7 @@
 
 <h3 align="left">Goals </h3>
 <p align="left">
-  As a junior software engineer, my goal is to continue expanding my skill set and learning new technologies. I believe in the power of collaboration and continuous learning in the fast-paced world of software engineering.
+  As a full-stack engineer, my goal is to continue expanding my skill set and learning new technologies. I believe in the power of collaboration and continuous learning in the fast-paced world of software engineering.
 </p>
 
 <h3 align="left">Connect with me:</h3>
